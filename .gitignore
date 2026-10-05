@@ -1,0 +1,4 @@
+__pycache__/
+*.db
+payslips/
+.pytest_cache/

@@ -1,0 +1,4 @@
+number,name,id_number,born,monthly_salary,medical_members,medical_aid_employee,medical_aid_employer,pension_employee,travel_allowance
+M001,Naledi Khumalo,9504120123087,1995-04-12,32000,2,2100,1500,2400,
+M002,Pieter Botha,8811035009081,1988-11-03,18500,0,,,,3000
+M003,Ayanda Mthembu,0102285123089,2001-02-28,9800,0,,,,
